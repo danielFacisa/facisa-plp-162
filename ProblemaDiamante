@@ -1,0 +1,4 @@
+PROBLEMA DO DIAMENTE
+
+O problema do diamante é basicamente o fato de que um filho não pode ter dois pais explicitamente.
+Pois uma classe quando tem dois pais, se cada pai tiver um método de mesmo nome no momento em que o filho tentar implementar o método ele não saberá qual será usado e o resultado é totalmente inesperado.
